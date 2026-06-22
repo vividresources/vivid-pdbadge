@@ -1,4 +1,5 @@
 # vivid-pdbadge
+<img width="1920" height="1080" alt="New Project (8)" src="https://github.com/user-attachments/assets/39047696-989a-4fcd-a49b-8b8741d55ffd" />
 
 Wallet-style police badge for Qbox servers. LEOs flash a physical badge prop and show a card overlay to players nearby — rank, name, and an optional photo pulled from the database.
 
