@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS `vivid_pdbadge_photos` (
-    `citizenid` VARCHAR(50) NOT NULL,
-    `photo_url` VARCHAR(512) NOT NULL,
-    `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    PRIMARY KEY (`citizenid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
