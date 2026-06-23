@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 name 'vivid-pdbadge'
-description 'Police badge for DN'
+description 'Police badge'
 author 'kubanscripts - vividresources'
 version '0.1.0'
 
